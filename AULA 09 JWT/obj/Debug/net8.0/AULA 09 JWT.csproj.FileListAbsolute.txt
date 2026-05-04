@@ -1,0 +1,42 @@
+C:\Users\NYCOLASAUGUSTO\Desktop\Aula-Desenvolvimento-Web-Avan-ado-\AULA 09 JWT\obj\Debug\net8.0\AULA 09 JWT.csproj.AssemblyReference.cache
+C:\Users\NYCOLASAUGUSTO\Desktop\Aula-Desenvolvimento-Web-Avan-ado-\AULA 09 JWT\obj\Debug\net8.0\AULA 09 JWT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NYCOLASAUGUSTO\Desktop\Aula-Desenvolvimento-Web-Avan-ado-\AULA 09 JWT\obj\Debug\net8.0\AULA 09 JWT.AssemblyInfoInputs.cache
+C:\Users\NYCOLASAUGUSTO\Desktop\Aula-Desenvolvimento-Web-Avan-ado-\AULA 09 JWT\obj\Debug\net8.0\AULA 09 JWT.AssemblyInfo.cs
+C:\Users\NYCOLASAUGUSTO\Desktop\Aula-Desenvolvimento-Web-Avan-ado-\AULA 09 JWT\obj\Debug\net8.0\AULA 09 JWT.csproj.CoreCompileInputs.cache
+C:\Users\NYCOLASAUGUSTO\Desktop\Aula-Desenvolvimento-Web-Avan-ado-\AULA 09 JWT\obj\Debug\net8.0\AULA 09 JWT.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\NYCOLASAUGUSTO\Desktop\Aula-Desenvolvimento-Web-Avan-ado-\AULA 09 JWT\obj\Debug\net8.0\AULA 09 JWT.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\NYCOLASAUGUSTO\Desktop\Aula-Desenvolvimento-Web-Avan-ado-\AULA 09 JWT\obj\Debug\net8.0\AULA 09 JWT.sourcelink.json
+C:\Users\NYCOLASAUGUSTO\Desktop\Aula-Desenvolvimento-Web-Avan-ado-\AULA 09 JWT\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\NYCOLASAUGUSTO\Desktop\Aula-Desenvolvimento-Web-Avan-ado-\AULA 09 JWT\bin\Debug\net8.0\appsettings.json
+C:\Users\NYCOLASAUGUSTO\Desktop\Aula-Desenvolvimento-Web-Avan-ado-\AULA 09 JWT\bin\Debug\net8.0\AULA 09 JWT.exe
+C:\Users\NYCOLASAUGUSTO\Desktop\Aula-Desenvolvimento-Web-Avan-ado-\AULA 09 JWT\bin\Debug\net8.0\AULA 09 JWT.deps.json
+C:\Users\NYCOLASAUGUSTO\Desktop\Aula-Desenvolvimento-Web-Avan-ado-\AULA 09 JWT\bin\Debug\net8.0\AULA 09 JWT.runtimeconfig.json
+C:\Users\NYCOLASAUGUSTO\Desktop\Aula-Desenvolvimento-Web-Avan-ado-\AULA 09 JWT\bin\Debug\net8.0\AULA 09 JWT.dll
+C:\Users\NYCOLASAUGUSTO\Desktop\Aula-Desenvolvimento-Web-Avan-ado-\AULA 09 JWT\bin\Debug\net8.0\AULA 09 JWT.pdb
+C:\Users\NYCOLASAUGUSTO\Desktop\Aula-Desenvolvimento-Web-Avan-ado-\AULA 09 JWT\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\NYCOLASAUGUSTO\Desktop\Aula-Desenvolvimento-Web-Avan-ado-\AULA 09 JWT\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\NYCOLASAUGUSTO\Desktop\Aula-Desenvolvimento-Web-Avan-ado-\AULA 09 JWT\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\NYCOLASAUGUSTO\Desktop\Aula-Desenvolvimento-Web-Avan-ado-\AULA 09 JWT\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\NYCOLASAUGUSTO\Desktop\Aula-Desenvolvimento-Web-Avan-ado-\AULA 09 JWT\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\NYCOLASAUGUSTO\Desktop\Aula-Desenvolvimento-Web-Avan-ado-\AULA 09 JWT\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\NYCOLASAUGUSTO\Desktop\Aula-Desenvolvimento-Web-Avan-ado-\AULA 09 JWT\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\NYCOLASAUGUSTO\Desktop\Aula-Desenvolvimento-Web-Avan-ado-\AULA 09 JWT\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\NYCOLASAUGUSTO\Desktop\Aula-Desenvolvimento-Web-Avan-ado-\AULA 09 JWT\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\NYCOLASAUGUSTO\Desktop\Aula-Desenvolvimento-Web-Avan-ado-\AULA 09 JWT\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\NYCOLASAUGUSTO\Desktop\Aula-Desenvolvimento-Web-Avan-ado-\AULA 09 JWT\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\NYCOLASAUGUSTO\Desktop\Aula-Desenvolvimento-Web-Avan-ado-\AULA 09 JWT\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\NYCOLASAUGUSTO\Desktop\Aula-Desenvolvimento-Web-Avan-ado-\AULA 09 JWT\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\NYCOLASAUGUSTO\Desktop\Aula-Desenvolvimento-Web-Avan-ado-\AULA 09 JWT\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\NYCOLASAUGUSTO\Desktop\Aula-Desenvolvimento-Web-Avan-ado-\AULA 09 JWT\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\NYCOLASAUGUSTO\Desktop\Aula-Desenvolvimento-Web-Avan-ado-\AULA 09 JWT\obj\Debug\net8.0\staticwebassets\msbuild.AULA 09 JWT.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\NYCOLASAUGUSTO\Desktop\Aula-Desenvolvimento-Web-Avan-ado-\AULA 09 JWT\obj\Debug\net8.0\staticwebassets\msbuild.build.AULA 09 JWT.props
+C:\Users\NYCOLASAUGUSTO\Desktop\Aula-Desenvolvimento-Web-Avan-ado-\AULA 09 JWT\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AULA 09 JWT.props
+C:\Users\NYCOLASAUGUSTO\Desktop\Aula-Desenvolvimento-Web-Avan-ado-\AULA 09 JWT\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AULA 09 JWT.props
+C:\Users\NYCOLASAUGUSTO\Desktop\Aula-Desenvolvimento-Web-Avan-ado-\AULA 09 JWT\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\NYCOLASAUGUSTO\Desktop\Aula-Desenvolvimento-Web-Avan-ado-\AULA 09 JWT\obj\Debug\net8.0\scopedcss\bundle\AULA 09 JWT.styles.css
+C:\Users\NYCOLASAUGUSTO\Desktop\Aula-Desenvolvimento-Web-Avan-ado-\AULA 09 JWT\obj\Debug\net8.0\AULA 09 .F5E9D5FE.Up2Date
+C:\Users\NYCOLASAUGUSTO\Desktop\Aula-Desenvolvimento-Web-Avan-ado-\AULA 09 JWT\obj\Debug\net8.0\AULA 09 JWT.dll
+C:\Users\NYCOLASAUGUSTO\Desktop\Aula-Desenvolvimento-Web-Avan-ado-\AULA 09 JWT\obj\Debug\net8.0\refint\AULA 09 JWT.dll
+C:\Users\NYCOLASAUGUSTO\Desktop\Aula-Desenvolvimento-Web-Avan-ado-\AULA 09 JWT\obj\Debug\net8.0\AULA 09 JWT.pdb
+C:\Users\NYCOLASAUGUSTO\Desktop\Aula-Desenvolvimento-Web-Avan-ado-\AULA 09 JWT\obj\Debug\net8.0\AULA 09 JWT.genruntimeconfig.cache
+C:\Users\NYCOLASAUGUSTO\Desktop\Aula-Desenvolvimento-Web-Avan-ado-\AULA 09 JWT\obj\Debug\net8.0\ref\AULA 09 JWT.dll
