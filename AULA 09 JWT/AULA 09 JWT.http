@@ -1,0 +1,6 @@
+@AULA_09_JWT_HostAddress = http://localhost:5003
+
+GET {{AULA_09_JWT_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
